@@ -1,0 +1,43 @@
+# --- Executables (실행 파일) ---
+# 윈도우 실행 파일
+*.exe
+# 리눅스/맥 기본 실행 파일
+*.out
+# 맥 앱 실행 파일
+*.app
+
+# --- Objects & Libraries (컴파일 중간 생성물) ---
+# 리눅스 오브젝트 파일
+*.o
+# 윈도우 오브젝트 파일
+*.obj
+# 공유 라이브러리
+*.so
+# 동적 링크 라이브러리
+*.dll
+# 정적 라이브러리
+*.lib
+# 정적 라이브러리 (Archive)
+*.a
+
+# --- Debug files (디버그 정보) ---
+# 윈도우 디버그 데이터베이스
+*.pdb
+# Incremental Link 파일
+*.ilk
+# 맥 디버그 심볼 폴더
+*.dSYM/
+
+# --- IDE & System (도구 설정) ---
+# VS Code 설정
+.vscode/
+# 맥 시스템 파일
+.DS_Store
+# 윈도우 썸네일 캐시
+Thumbs.db
+
+# --- 연구용 특화 ---
+# 리눅스 실행 파일 (확장자 없음)
+test
+# 빌드 폴더
+build/
