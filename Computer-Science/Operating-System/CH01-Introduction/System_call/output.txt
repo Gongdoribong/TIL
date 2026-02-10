@@ -1,0 +1,11 @@
+$ strace ./system_call_hands-on
+--- Process 14164 created
+--- Process 14164 loaded C:\Windows\System32\ntdll.dll at 00007ffbce690000
+--- Process 14164 loaded C:\Windows\System32\kernel32.dll at 00007ffbcce50000
+--- Process 14164 loaded C:\Windows\System32\KernelBase.dll at 00007ffbcbe40000
+--- Process 14164 loaded C:\Windows\System32\msvcrt.dll at 00007ffbce400000
+--- Process 14164 thread 5944 created
+Hello, OS!
+Hello, World!
+--- Process 14164 thread 5944 exited with status 0x0
+--- Process 14164 exited with status 0x0

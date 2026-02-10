@@ -41,3 +41,5 @@ Thumbs.db
 test
 # 빌드 폴더
 build/
+
+OS_template.txt
