@@ -43,3 +43,12 @@ test
 build/
 
 OS_template.txt
+
+.python-version
+__pycache__/
+.venv
+
+data/
+outputs/
+*.nii.gz
+.dcm
